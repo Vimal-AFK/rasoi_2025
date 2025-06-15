@@ -1,0 +1,314 @@
+{
+    "precision": 0.6878048780487804,
+    "recall": 0.7157360406091371,
+    "f1": 0.7014925373134328,
+    "map": 0.6912931925903267,
+    "class_metrics": {
+        "Chutney": {
+            "precision": 0.8666666666666667,
+            "recall": 1.0,
+            "f1": 0.9285714285714286,
+            "ap": 0.965966512120358
+        },
+        "Salad": {
+            "precision": 0.9523809523809523,
+            "recall": 0.9090909090909091,
+            "f1": 0.9302325581395349,
+            "ap": 1.0000000000000002
+        },
+        "Chapati": {
+            "precision": 0.9230769230769231,
+            "recall": 0.9230769230769231,
+            "f1": 0.9230769230769231,
+            "ap": 0.9693117068117069
+        },
+        "Papad": {
+            "precision": 0.8888888888888888,
+            "recall": 1.0,
+            "f1": 0.9411764705882353,
+            "ap": 1.0
+        },
+        "Noodles": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Apple": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "ap": 1.0
+        },
+        "Upma": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333,
+            "ap": 1.0
+        },
+        "Curd": {
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666,
+            "ap": 1.0
+        },
+        "Dalia": {
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0,
+            "ap": 0.0
+        },
+        "Banana": {
+            "precision": 0.9285714285714286,
+            "recall": 1.0,
+            "f1": 0.962962962962963,
+            "ap": 0.9999999999999998
+        },
+        "Porridge": {
+            "precision": 0.125,
+            "recall": 0.1111111111111111,
+            "f1": 0.11764705882352941,
+            "ap": 1.0
+        },
+        "White Rice": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "ap": 1.0
+        },
+        "Raita": {
+            "precision": 0.625,
+            "recall": 0.7142857142857143,
+            "f1": 0.6666666666666666,
+            "ap": 0.6014285714285713
+        },
+        "Sambhar": {
+            "precision": 0.6666666666666666,
+            "recall": 0.75,
+            "f1": 0.7058823529411765,
+            "ap": 0.9553571428571429
+        },
+        "Paneer Curry": {
+            "precision": 0.6,
+            "recall": 1.0,
+            "f1": 0.7499999999999999,
+            "ap": 0.7638888888888888
+        },
+        "Dal": {
+            "precision": 0.7857142857142857,
+            "recall": 0.7857142857142857,
+            "f1": 0.7857142857142857,
+            "ap": 1.0
+        },
+        "Palak Corn": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Aloo Gobhi": {
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0,
+            "ap": 0.0
+        },
+        "Kadhi": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1": 0.6666666666666666,
+            "ap": 1.0
+        },
+        "Pasta": {
+            "precision": 0.6666666666666666,
+            "recall": 1.0,
+            "f1": 0.8,
+            "ap": 1.0
+        },
+        "Gobi Sabji": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Chicken Curry": {
+            "precision": 0.8,
+            "recall": 1.0,
+            "f1": 0.888888888888889,
+            "ap": 1.0
+        },
+        "Aloo Shimlamirch": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Uttapam": {
+            "precision": 0.25,
+            "recall": 1.0,
+            "f1": 0.4,
+            "ap": 1.0
+        },
+        "Besan Chilla": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5,
+            "ap": 0.25
+        },
+        "Bhaji": {
+            "precision": 0.3333333333333333,
+            "recall": 1.0,
+            "f1": 0.5,
+            "ap": 0.25
+        },
+        "Bread": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Papaya": {
+            "precision": 1.0,
+            "recall": 0.2857142857142857,
+            "f1": 0.4444444444444445,
+            "ap": 1.0
+        },
+        "Muskmelon": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Aloo Sabji": {
+            "precision": 0.3333333333333333,
+            "recall": 0.25,
+            "f1": 0.28571428571428575,
+            "ap": 0.25
+        },
+        "Vada": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "ap": 1.0
+        },
+        "Watermelon": {
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "f1": 0.5,
+            "ap": 1.0
+        },
+        "Khichdi": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Poori": {
+            "precision": 1.0,
+            "recall": 0.6,
+            "f1": 0.7499999999999999,
+            "ap": 1.0
+        },
+        "Kofta": {
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0,
+            "ap": 0.0
+        },
+        "Dum aloo": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Mix Fruit": {
+            "precision": 0.25,
+            "recall": 0.5,
+            "f1": 0.3333333333333333,
+            "ap": 1.0
+        },
+        "Idli": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1": 0.5,
+            "ap": 1.0
+        },
+        "Palak Paneer": {
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0,
+            "ap": 0.0
+        },
+        "Bhatura": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "ap": 1.0
+        },
+        "Poha": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "ap": 1.0
+        },
+        "Omelette": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Karela Sabji": {
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0,
+            "ap": 0.0
+        },
+        "Double Ka Meetha": {
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0,
+            "ap": 0.0
+        },
+        "Bhindi Masala": {
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1": 0.6666666666666666,
+            "ap": 0.25
+        },
+        "Pumpkin Sabji": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Egg Bhurji": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1": 0.6666666666666666,
+            "ap": 1.0
+        },
+        "Baigan Sabji": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Chaat": {
+            "precision": 0.0,
+            "recall": 0,
+            "f1": 0,
+            "ap": 0.5
+        },
+        "Gulab Jamun": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "ap": 1.0
+        },
+        "Boiled Egg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "ap": 1.0
+        }
+    }
+}
