@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 83
+names: ['Achar', 'Aloo Beans', 'Aloo Gobhi', 'Aloo Matar', 'Aloo Palak', 'Aloo Sabji', 'Aloo Shimlamirch', 'Apple', 'Baigan Sabji', 'Banana', 'Besan Chilla', 'Bhaji', 'Bhatura', 'Bhindi Masala', 'Biryani', 'Boiled Egg', 'Bread', 'Cabbage Matar', 'Cake', 'Chaat', 'Chapati', 'Chicken Curry', 'Chilli Potato', 'Chutney', 'Curd', 'Dahi Bhalle', 'Dal', 'Dum aloo', 'Egg Bhurji', 'Fried Rice', 'Gajar Ka Halwa', 'Gobhi Sabji', 'Gobi Sabji', 'Gulab Jamun', 'Halwa', 'Hari Bhaji', 'Hash Brown', 'Idli', 'Imarti', 'Kadhai Chaap', 'Kadhi', 'Karela Sabji', 'Kheer', 'Khichdi', 'Kofta', 'Laddu', 'Malpua', 'Matar Mushroom', 'Mix Fruit', 'Mix Veg', 'Muskmelon', 'Mysore Bonda', 'Mysore Pak', 'Noodles', 'Omelette', 'Orange', 'Palak Corn', 'Palak Paneer', 'Paneer Curry', 'Papad', 'Papaya', 'Pasta', 'Phirni', 'Poha', 'Poori', 'Porridge', 'Pulao', 'Pumpkin Sabji', 'Raita', 'Rasam', 'Salad', 'Sambhar', 'Soft Roll', 'Soya Matar', 'Sprouts chaat', 'Upma', 'Uttapam', 'Vada', 'Veg Jhalfrezi', 'Veg Manchurian', 'Veg Miloni', 'Watermelon', 'White Rice']
+
+roboflow:
+  workspace: vimal-aqkxj
+  project: rasoi-vcet
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vimal-aqkxj/rasoi-vcet/dataset/1
