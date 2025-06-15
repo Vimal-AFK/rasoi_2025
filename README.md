@@ -94,14 +94,14 @@ pip install ultralytics pandas scikit-learn tqdm openpyxl gdown
 
 Due to GitHub's 100MB file limit, the model file is hosted externally.
 
-📥 **[Download rasoi_yolov8s.pt]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/drive/folders/1JDvexVgl-zk5sE3HnEOJ3idFb8Tf4o3g?usp=sharing))**
+📥 **[Download rasoi_yolov8s.pt](https://drive.google.com/drive/folders/1JDvexVgl-zk5sE3HnEOJ3idFb8Tf4o3g?usp=sharing)**
 
 To download via script:
 
 ```python
 import gdown
-file_id = "YOUR_FILE_ID"
-gdown.download(f"https://drive.google.com/uc?id={file_id}", "rasoi_yolov8s.pt", quiet=False)
+
+gdown.download(https://drive.google.com/drive/folders/1JDvexVgl-zk5sE3HnEOJ3idFb8Tf4o3g?usp=sharing)", "rasoi_yolov8s.pt", quiet=False)
 ```
 
 ---
