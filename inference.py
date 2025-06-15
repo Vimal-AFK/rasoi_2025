@@ -197,7 +197,7 @@ def main(model_path, images_path, labels_path):
         print(f"Error: {str(e)}")
         return 1
 
-model_path = "./models/rasoi_yolov8s.pt"
+model_path = "./rasoi_yolov8s.pt"
 images_path = "./validation_dataset/val_images"
 labels_path = "./validation_dataset/val_labels.xlsx"
 main(model_path, images_path, labels_path)
